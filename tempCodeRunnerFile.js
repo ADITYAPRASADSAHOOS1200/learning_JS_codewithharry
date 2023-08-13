@@ -1,1 +1,1 @@
-console.log("hey how are you !")
+console.log(str2.startsWith('Sat'));
