@@ -1,1 +1,1 @@
-console.log(str2.startsWith('Sat'));
+let b=a.toString()
