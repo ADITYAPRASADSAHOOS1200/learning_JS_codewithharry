@@ -14,7 +14,7 @@ let b="prasad";
 let c=a.concat(b)
 console.log(c);
 
-
+``
 let name="     aditya    "
 let newName=name.trim();
 console.log(newName.trim());
