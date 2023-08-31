@@ -3,9 +3,9 @@ console.log("aditya\"".length);
 
 //problem 2
 const sentence="My Name Is Aditya Prasad Sahoo"
-const word="bentley"
+const word="Aditya"
 console.log(sentence.includes(word));
-console.log(`the word "${word}"${sentence.includes(word)?'is':'is not'} in the sentence`)
+console.log(`the word ${word} ${sentence.includes(word)?'is':'is not'} in the sentence`)
 
 //problem3
 console.log(word.toUpperCase())

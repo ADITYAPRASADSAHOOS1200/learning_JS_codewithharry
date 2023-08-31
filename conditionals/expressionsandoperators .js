@@ -39,7 +39,7 @@ let assignment=1;
 
  //comparison operator
  let comp1=4;
- let comp2=1;
+ let comp2=4;
  console.log("comp1 == comp2 ", comp1 == comp2 )
  console.log("comp1 != comp2 ", comp1 != comp2 )
  console.log("comp1 === comp2 ", comp1 === comp2 )

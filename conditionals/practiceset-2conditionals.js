@@ -1,7 +1,7 @@
 
 
 // let age=prompt("what is your age"):age will only work on browser
-let age=11
+let age=9
 if(age>10 && age<20){
     console.log("your age lies between 10 and 20")
 }
@@ -11,7 +11,7 @@ else{
 
 
 //practice-2
-const age1=12;
+const age1=45;
 switch (age1){
     case 12:
         console.log("your age is 12")
